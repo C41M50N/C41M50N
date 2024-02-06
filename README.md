@@ -22,12 +22,12 @@ Learn more about me at [my personal website (WIP)](https://www.cbuff.dev/?ref=gi
 
 ### My Favorite Languages
 
-[![My Skills](https://skillicons.dev/icons?i=ts,py,go,kotlin,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,kotlin,java,ts)](https://skillicons.dev)
 
 
 ### My Favorite Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=astro,remix,nextjs,prisma,tailwind,fastapi,mongodb,postgres,redis,docker,gcp,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,nextjs,prisma,tailwind,fastapi,postgres,mongodb,redis,docker,gcp,vercel)](https://skillicons.dev)
 
 
 ### Socials
