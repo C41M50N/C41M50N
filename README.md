@@ -22,7 +22,7 @@ Learn more about me at [my personal website (WIP)](https://www.cbuff.dev/?ref=gi
 
 ### My Favorite Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,kotlin,java,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,py,kotlin,java)](https://skillicons.dev)
 
 
 ### My Favorite Technologies
