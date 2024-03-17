@@ -27,7 +27,7 @@ Learn more about me at [my personal website (WIP)](https://www.cbuff.dev/?ref=gi
 
 ### My Favorite Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=astro,nextjs,prisma,tailwind,fastapi,postgres,mongodb,redis,docker,gcp,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,nextjs,prisma,tailwind,fastapi,postgres,mongodb,redis,docker,gcp,aws,vercel)](https://skillicons.dev)
 
 
 ### Socials
