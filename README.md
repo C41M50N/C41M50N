@@ -15,22 +15,17 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm Charles, a software engineer who likes to build fast! Currently, my most common tech stack consists of TypeScript, React, and Python. I have interests in software architecture, robotics, and productivity.
+I'm Charles, a software engineer who likes to build fast! Currently, my most common tech stack consists of Golang, TypeScript, React, and Python. I have interests in software architecture and productivity.
 
 Learn more about me at [my personal website (WIP)](https://www.cbuff.dev/?ref=github).
 
 
 ### My Favorite Languages
 
-[![My Skills](https://skillicons.dev/icons?i=ts,go,py,kotlin,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,py,kotlin)](https://skillicons.dev)
 
 
 ### My Favorite Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=astro,nextjs,prisma,tailwind,fastapi,postgres,mongodb,redis,docker,gcp,aws,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,nextjs,fastapi,postgres,mongodb,docker,gcp,aws,vercel)](https://skillicons.dev)
 
-
-### Socials
-<a href="https://www.linkedin.com/in/charles-buffington" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
