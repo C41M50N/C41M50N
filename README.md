@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+## Hi there 👋
 
-I'm Charles, a software engineer who likes to build fast! Currently, my most common tech stack consists of Golang, TypeScript, React, and Python. I have interests in software architecture and productivity.
+I'm Charles, a software engineer who likes to build fast! Currently, my most common tech stack consists of Golang, TypeScript, React, and Python. I have interests in software architecture, personal finance, and productivity.
 
 Learn more about me at [my personal website (WIP)](https://www.cbuff.dev/?ref=github).
 
