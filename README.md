@@ -53,4 +53,5 @@ Having found programming at a young age, I have seen tremendous growth throughou
 ## Connect with Me 📬
 - ✉️ [**Email**](mailto:charles.fsb2+hello@gmail.com)
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/charles-buffington/)
+- 🐦‍⬛ [**Twitter**](https://x.com/C41M50N)
 
