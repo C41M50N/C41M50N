@@ -38,8 +38,8 @@ Learn more about me at [my personal website (WIP)](https://www.cbuff.dev/?ref=gi
 Having found programming at a young age, I have seen tremendous growth throughout my software engineering journey. From writing web scrapers to finesse my school's SAT prep system to building a soccer knowledge gaming platform, I have continuously sought out new challenges and opportunities to learn. My natural curiosity drives me to explore all things tech, and I am passionate about building software solutions that are efficient, well-documented, and maintainable. When I’m not coding, you can find me diving into personal finance strategies or exploring productivity techniques. I believe in continuous learning and strive to improve myself both professionally and personally each day.
 
 ## Technical Skills 🛠️
-- **Languages**: Go, TypeScript, Python, SQL
-- **Frameworks & Libraries**: Fiber, Gin, Next.js, Astro, React, Node.js, FastAPI, Django
+- **Languages**: TypeScript, Go, Python, SQL
+- **Frameworks & Libraries**: Next.js, Astro, React, Node.js, Fiber, Gin, FastAPI, Django
 - **Tools & Platforms**: Docker, Kubernetes, Terraform, GCP, AWS, Digital Ocean, Vercel
 
 ## Projects 🌐
