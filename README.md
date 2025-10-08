@@ -32,11 +32,13 @@ Learn more about me at [my personal website (WIP)](https://www.cbuff.dev/?ref=gi
 -->
 
 <!-- V2 -->
-I'm Charles, a full-stack TypeScript developer building web apps and productivity tools. Currently working on readr, an AI-powered reading app.
+I'm Charles, a full-stack TypeScript developer building web apps and productivity tools.
 
-I care about maintainable code and tools that feel good to use. Always tinkering with new tech stacks and exploring better ways to build software.
+Currently working on readr, an AI-powered reading app.
 
-Socials: [**Email**](mailto:charles.fsb2+hello@gmail.com) [**LinkedIn**](https://www.linkedin.com/in/charles-buffington/) [**Twitter**](https://x.com/C41M50N)
+I care about maintainable code and tools that feel good to use.
+
+Always tinkering with new tech stacks and exploring better ways to build software.
 
 <!--
 ## Technical Skills 🛠️
