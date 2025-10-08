@@ -32,10 +32,9 @@ Learn more about me at [my personal website (WIP)](https://www.cbuff.dev/?ref=gi
 -->
 
 <!-- V2 -->
-👋 Hi there, I'm **Charles Buffington**! I am a software engineer focused on crafting scalable, user friendly software solutions.
+👋 Hi there, I'm Charles, a full-stack TypeScript developer building web apps and productivity tools. Currently working on readr, an AI-powered reading app.
 
-## About Me 🤙🏾
-Having found programming at a young age, I have seen tremendous growth throughout my software engineering journey. From writing web scrapers to finessing my school's SAT prep system to building a soccer knowledge gaming platform, I have continuously sought out new challenges and opportunities to learn. My natural curiosity drives me to explore all things tech, and I am passionate about building software solutions that are efficient, well-documented, and maintainable. When I’m not coding, you can find me diving into new tech stacks, exploring productivity techniques, or reading about software design. I believe in continuous learning and strive to improve myself both professionally and personally each day.
+I care about maintainable code and tools that feel good to use. Always tinkering with new tech stacks and exploring better ways to build software.
 
 ## Technical Skills 🛠️
 - **Languages**: TypeScript, Go, Python, SQL
