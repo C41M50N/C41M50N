@@ -40,7 +40,7 @@ Having found programming at a young age, I have seen tremendous growth throughou
 ## Technical Skills 🛠️
 - **Languages**: TypeScript, Go, Python, SQL
 - **Frameworks & Libraries**: Next.js, Astro, React, Node.js, Fiber, Gin, FastAPI, Django
-- **Tools & Platforms**: Docker, Kubernetes, Terraform, GCP, AWS, Digital Ocean, Vercel
+- **Tools & Platforms**: Docker, Kubernetes, Terraform, GCP, AWS, Digital Ocean, Railway
 
 ## Projects 🌐
 - [**SubTrack**](https://subtrack.cbuff.dev): Helping you monitor all of your digital subscriptions.
